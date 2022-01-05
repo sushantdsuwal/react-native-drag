@@ -1,6 +1,6 @@
 {
   "name": "@sushantdsuwal/react-native-drag",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "draggable",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
