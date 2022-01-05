@@ -5,8 +5,12 @@ draggable, drag, drop, reanimated-draggable
 ## Installation
 
 ```sh
-npm install react-native-drag
+npm install @sushantdsuwal/react-native-drag
 ```
+
+
+![myfile](https://github.com/sushantdsuwal/react-native-drag/blob/main/dragNselect.gif)
+
 
 ## Usage
 

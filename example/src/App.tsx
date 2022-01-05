@@ -27,7 +27,7 @@ export default function App() {
             y={y}
             maxHeight={maxHeight}
             maxWidth={maxWidth}
-            onDragEnd={(boxPosition: any) => {
+            onDragEnd={(boxPosition) => {
               const _boxArray = [...boxArray];
               const _box = _boxArray[index];
               _boxArray[index] = {
@@ -69,6 +69,6 @@ const styles = StyleSheet.create({
   },
   boxContainer: {
     flex: 1,
-    backgroundColor: 'lightblue',
+    backgroundColor: '#ADD8E6',
   },
 });
