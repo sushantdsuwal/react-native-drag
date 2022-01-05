@@ -1,6 +1,6 @@
 # react-native-drag
 
-draggable, drag, drop, reanimated-draggable
+draggable, drag n drop, reanimated-draggable
 
 ## Installation
 
@@ -8,8 +8,7 @@ draggable, drag, drop, reanimated-draggable
 npm install @sushantdsuwal/react-native-drag
 ```
 
-
-![myfile](https://github.com/sushantdsuwal/react-native-drag/blob/main/dragNselect.gif)
+![myfile](https://github.com/sushantdsuwal/react-native-drag/blob/main/drag.gif)
 
 
 ## Usage
@@ -40,6 +39,8 @@ import Drag from "react-native-drag";
 </Drag>
 
 ```
+
+
 
 ## Contributing
 
