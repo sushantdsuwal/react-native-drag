@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
-import Drag from 'react-native-drag';
+import Drag from '@sushantdsuwal/react-native-drag';
 import BOX_ARRAY from './BOX_ARRAY';
 
 export default function App() {
