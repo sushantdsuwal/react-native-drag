@@ -14,7 +14,7 @@ npm install @sushantdsuwal/react-native-drag
 ## Usage
 
 ```js
-import Drag from "react-native-drag";
+import Drag from "@sushantdsuwal/react-native-drag";
 
 // ...
 
@@ -35,7 +35,7 @@ import Drag from "react-native-drag";
     }
   }} // new position of element after drag
 >
-  <View><Text>title</Text></View>
+  <View><Text>Box 1</Text></View>
 </Drag>
 
 ```
